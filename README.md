@@ -1,3 +1,9 @@
+# New Features
+
+1. Record function calls from getExtension()
+2. Record ArrayBuffer/Array/Image/Canvas/WebGLVertexArrayObjectOES parameters
+3. Add comments for WebGL const values such as TEXTURE_2D
+
 # WebGL Recorder
 
 This is a small script that lets you record the WebGL calls of any app for playback later.
